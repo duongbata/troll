@@ -1,4 +1,4 @@
-package com.crawler;
+package com.crawler.main;
 
 import java.io.IOException;
 
